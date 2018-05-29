@@ -2,7 +2,7 @@
 Simple javascript colored console logger for nodejs based on npm 'colors' module
 
 ### Add to nodejs
-Logger works as a simple script that expores a 'logger' function where it's imported via require.
+Logger works as a simple script that exports a 'logger' function where it's imported via require.
 
 ### Structure
 The script comprises a single function that receives 3 constructors:
