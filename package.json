@@ -1,0 +1,27 @@
+{
+  "name": "color-logger",
+  "version": "1.0.0",
+  "description": "logger with terminal colors",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo jest is installed as a dev dependency but not configured properly",
+    "tsc": "tsc ./src",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malex37/color-logger.git"
+  },
+  "author": "malex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malex37/color-logger/issues"
+  },
+  "homepage": "https://github.com/malex37/color-logger#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.6.2"
+  }
+}
